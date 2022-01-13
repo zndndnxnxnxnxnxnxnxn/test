@@ -1,6 +1,7 @@
 bf
 dad
 gf
+gftankmen
 spooky
 pico
 mom
@@ -17,5 +18,4 @@ gf-pixel
 senpai
 senpai-angry
 spirit
-bf-pixel-opponent
-pico-player
+tankman
