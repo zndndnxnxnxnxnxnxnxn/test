@@ -26,7 +26,7 @@ function onCreate()
 	addLuaSprite('neostageback', false);
 	addLuaSprite('neostagefront', false);
 	addLuaSprite('neostagelight_left', false);
-    addLuaSprite('neostagelight_right', false);
+        addLuaSprite('neostagelight_right', false);
 	addLuaSprite('neostagecurtains', false);
 	
 	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
