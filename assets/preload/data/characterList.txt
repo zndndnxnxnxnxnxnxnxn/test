@@ -18,3 +18,5 @@ gf-pixel
 senpai
 senpai-angry
 spirit
+BF-Jon
+Jon
