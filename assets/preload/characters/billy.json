@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				7
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BILLY IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BILLY LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BILLY UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BILLY RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BILLY DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Billy",
+	"position": [
+		0,
+		510
+	],
+	"healthicon": "Billy",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		40,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 8.89999999999999
+}
