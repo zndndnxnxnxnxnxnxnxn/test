@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Billy.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BILLY DOWN NOTE instance 10000" x="89" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY DOWN NOTE instance 10001" x="89" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY DOWN NOTE instance 10002" x="131" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY DOWN NOTE instance 10003" x="131" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY DOWN NOTE instance 10004" x="131" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY DOWN NOTE instance 10005" x="131" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10000" x="5" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10001" x="5" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10002" x="5" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10003" x="89" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10004" x="89" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10005" x="89" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10006" x="89" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10007" x="131" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10008" x="131" y="5" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10009" x="5" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10010" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10011" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10012" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10013" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10014" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10015" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY IDLE instance 10016" x="47" y="47" width="32" height="32"/>
+	<SubTexture name="BILLY LEFT NOTE instance 10000" x="85" y="89" width="32" height="32"/>
+	<SubTexture name="BILLY LEFT NOTE instance 10001" x="85" y="89" width="32" height="32"/>
+	<SubTexture name="BILLY LEFT NOTE instance 10002" x="127" y="89" width="32" height="32"/>
+	<SubTexture name="BILLY LEFT NOTE instance 10003" x="127" y="89" width="32" height="32"/>
+	<SubTexture name="BILLY LEFT NOTE instance 10004" x="127" y="89" width="32" height="32"/>
+	<SubTexture name="BILLY LEFT NOTE instance 10005" x="127" y="89" width="32" height="32"/>
+	<SubTexture name="BILLY RIGHT NOTE instance 10000" x="249" y="166" width="73" height="73"/>
+	<SubTexture name="BILLY RIGHT NOTE instance 10001" x="249" y="166" width="73" height="73"/>
+	<SubTexture name="BILLY RIGHT NOTE instance 10002" x="332" y="166" width="73" height="73"/>
+	<SubTexture name="BILLY RIGHT NOTE instance 10003" x="332" y="166" width="73" height="73"/>
+	<SubTexture name="BILLY RIGHT NOTE instance 10004" x="332" y="166" width="73" height="73"/>
+	<SubTexture name="BILLY RIGHT NOTE instance 10005" x="332" y="166" width="73" height="73"/>
+	<SubTexture name="BILLY UP NOTE instance 10000" x="173" y="85" width="32" height="32"/>
+	<SubTexture name="BILLY UP NOTE instance 10001" x="173" y="85" width="32" height="32"/>
+	<SubTexture name="BILLY UP NOTE instance 10002" x="169" y="127" width="32" height="32"/>
+	<SubTexture name="BILLY UP NOTE instance 10003" x="169" y="127" width="32" height="32"/>
+	<SubTexture name="BILLY UP NOTE instance 10004" x="169" y="127" width="32" height="32"/>
+	<SubTexture name="BILLY UP NOTE instance 10005" x="169" y="127" width="32" height="32"/>
+</TextureAtlas>
